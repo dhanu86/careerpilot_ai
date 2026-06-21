@@ -32,4 +32,6 @@ __pycache__/
 *.model
 *.zip
 *.pt
+uploads/
+*.pdf
 node_modules/
